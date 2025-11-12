@@ -63,8 +63,16 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 |  1.5KHz        |     216mV                    |   0.0432     |  -27.290
 |  3KHz          |     412mV                    |   0.0824     |  -21.681
 |  5KHz          |     670mV                    |   0.134      |  -17.457
-|  7KHz                924mV                        0.1848        -14.665
-|  9KHz                950mv                        0.19           -14.424
+|  7KHz          |     924mV                    |   0.1848     |  -14.665
+|  9KHz          |     950mv                    |   0.19       |   -14.424
+|  11KHz         |     950mV                    |   0.19       |   -14.424
+|  13KHz         |     950mV                    |   0.19       |  -14.424
+|  15KHz         |     950mV                    |   0.19       |   -14.424
+|  50KHz         |     840mV                    |   0.168      |  -15.493
+|  200KHz        |     385mV                    |   0.077      |   -22.270
+|  600KHz        |     280mV                    |   0.056      |   -25.036
+|  800KHz        |     95mV                     |   0.019      |   -34.424
+|  1MHz          |     58mV                     |   0.011      |   -39.172
 ---
 
 ## MODEL GRAPH
